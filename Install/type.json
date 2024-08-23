@@ -1,0 +1,7 @@
+{
+	"app_type" : "dash",
+	"name" : "Dashboard",
+	"description" : "Application type dash (short for dashboard) can be used to host any dashboard type web resource.",
+	"version" : "0.0.0",
+	"repo" : "https://github.com/sp-modules/dash"
+}
